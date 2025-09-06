@@ -1,2 +1,14 @@
-# Quality-analysis-of-website-
-E-Commerce Website Testing (Demoblaze.com)  Wrote test cases for login, signup, cart, checkout, and About Us page.  Found important bugs:  Login does not work after signup  Duplicate signup error but login still fails  About Us video not working  Prepared Test Case Sheet (Excel) and Bug Report (Word with screenshots).
+# QA Test Cases Project
+
+This repository contains my test cases, bug reports, and test plans created while learning Software Testing and QA.
+
+## 📂 Folder Structure
+- Manual_Testing → Test cases for Login, Signup, Payment etc.
+- Bug_Reports → Sample bug reports I created while testing.
+- Test_Plans → Example test plans for different projects.
+- Automation_Scripts → (For future automation practice)
+
+## 🛠 Tools Used
+- Microsoft Excel / Google Sheets
+- Word / PDF
+- Manual testing techniques
